@@ -1,0 +1,124 @@
+2020-06-03T19:19:22.043Z [grades-control-api] info: [Server API] -> ON
+2020-06-03T19:21:06.953Z [grades-control-api] info: GET /grades
+2020-06-03T19:21:11.343Z [grades-control-api] info: GET /grades/:id - {"id":1,"student":"Yasmin Batista","subject":"01 - JavaScript","type":"Fórum","value":15}
+2020-06-03T19:21:15.810Z [grades-control-api] info: POST /grades - {"id":50,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-06-03T19:21:15.808Z"}
+2020-06-03T19:21:16.267Z [grades-control-api] info: [Server API] -> ON
+2020-06-03T19:21:32.210Z [grades-control-api] info: PUT /grades - {"id":1,"student":"Yasmin Batista","subject":"01 - JavaScript","type":"Fórum","value":40}
+2020-06-03T19:21:32.660Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:06:47.553Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:06:56.676Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:07:43.154Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:08:36.701Z [grades-control-api] info: POST /grades/rate - 16.333333333333332
+2020-06-04T09:09:33.869Z [grades-control-api] info: POST /better-grades - 27,7,6
+2020-06-04T09:10:30.054Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:11:28.667Z [grades-control-api] info: POST /grades/total-grade - 41
+2020-06-04T09:11:34.754Z [grades-control-api] info: POST /grades/rate - 10.75
+2020-06-04T09:12:04.233Z [grades-control-api] info: POST /better-grades - 27,7,6
+2020-06-04T09:12:11.820Z [grades-control-api] info: POST /better-grades - 27,7,6
+2020-06-04T09:12:45.055Z [grades-control-api] info: POST /grades/rate - 10.75
+2020-06-04T09:12:49.319Z [grades-control-api] info: POST /grades/rate - 10.75
+2020-06-04T09:12:50.338Z [grades-control-api] info: POST /grades/rate - 10.75
+2020-06-04T09:13:10.592Z [grades-control-api] info: POST /grades/rate - 27
+2020-06-04T09:15:22.698Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:15:25.923Z [grades-control-api] info: POST /grades/rate - 27
+2020-06-04T09:16:54.803Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:16:59.137Z [grades-control-api] info: POST /grades/rate - 27
+2020-06-04T09:19:18.033Z [grades-control-api] info: POST /better-grades - 27,7,6
+2020-06-04T09:20:02.105Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:20:07.595Z [grades-control-api] info: POST /better-grades - 27,7,6
+2020-06-04T09:20:39.678Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:20:44.179Z [grades-control-api] info: POST /better-grades - 27,7,6,2
+2020-06-04T09:21:01.750Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:21:04.144Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object],[object Object]
+2020-06-04T09:21:23.006Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:21:25.638Z [grades-control-api] info: POST /better-grades - 2,7,27,6
+2020-06-04T09:21:49.972Z [grades-control-api] info: GET /grades/:id - {"id":3,"student":"Loiane Groner","subject":"03 - React","type":"Fórum","value":14,"timestamp":"2020-05-19T18:21:24.970Z"}
+2020-06-04T09:23:06.659Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:23:14.117Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2020-06-04T09:23:36.294Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:23:42.755Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2020-06-04T09:24:05.678Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:24:09.273Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2020-06-04T09:24:26.299Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2020-06-04T09:25:22.785Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:25:25.144Z [grades-control-api] info: POST /better-grades - 
+2020-06-04T09:25:30.387Z [grades-control-api] info: POST /better-grades - 27,7,6
+2020-06-04T09:25:41.358Z [grades-control-api] info: POST /better-grades - 14,10,3
+2020-06-04T09:27:30.327Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:27:36.790Z [grades-control-api] error: POST /better-grades - value is not defined
+2020-06-04T09:29:01.335Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:29:05.288Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object]
+2020-06-04T09:30:35.876Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:30:39.772Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object]
+2020-06-04T09:30:40.961Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object]
+2020-06-04T09:30:54.527Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:30:57.733Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object]
+2020-06-04T09:31:48.112Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object]
+2020-06-04T09:32:15.137Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:32:19.029Z [grades-control-api] info: POST /better-grades - ,,
+2020-06-04T09:32:31.043Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:32:33.021Z [grades-control-api] info: POST /better-grades - ,,
+2020-06-04T09:33:04.743Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:33:17.452Z [grades-control-api] info: POST /better-grades - 
+2020-06-04T09:33:18.762Z [grades-control-api] info: POST /better-grades - 
+2020-06-04T09:33:32.254Z [grades-control-api] info: POST /better-grades - 27,7,6
+2020-06-04T09:33:57.940Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:33:59.634Z [grades-control-api] info: POST /better-grades - [object Object],[object Object],[object Object]
+2020-06-04T09:34:30.327Z [grades-control-api] info: GET /grades/:id - {"id":41,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Trabalho Prático","value":13,"timestamp":"2020-05-19T18:21:25.240Z"}
+2020-06-04T09:34:41.899Z [grades-control-api] info: GET /grades/:id - {"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"}
+2020-06-04T09:34:49.674Z [grades-control-api] info: GET /grades/:id - {"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"}
+2020-06-04T09:34:55.996Z [grades-control-api] info: GET /grades/:id - {"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}
+2020-06-04T09:35:31.822Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:35:34.321Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:36:16.835Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:36:34.683Z [grades-control-api] error: POST /grades/rate - types is not defined
+2020-06-04T09:36:41.842Z [grades-control-api] error: POST /grades/rate - types is not defined
+2020-06-04T09:36:43.589Z [grades-control-api] error: POST /grades/rate - types is not defined
+2020-06-04T09:37:23.776Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:37:26.566Z [grades-control-api] info: POST /grades/rate - 27
+2020-06-04T09:37:58.111Z [grades-control-api] info: POST /grades/total-grade - 47
+2020-06-04T09:39:23.752Z [grades-control-api] info: POST /grades - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-04T09:39:23.750Z"}
+2020-06-04T09:39:24.230Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:40:02.131Z [grades-control-api] info: POST /grades/total-grade - 70
+2020-06-04T09:40:48.931Z [grades-control-api] info: PUT /grades - {"id":33,"student":"Yasmin Batista","subject":"01 - JavaScript","type":"Fórum","value":15}
+2020-06-04T09:40:49.325Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:41:06.405Z [grades-control-api] info: POST /grades/rate - 12.333333333333334
+2020-06-04T09:41:44.416Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:41:47.708Z [grades-control-api] info: POST /grades/rate - 12
+2020-06-04T09:41:48.831Z [grades-control-api] info: POST /grades/rate - 12
+2020-06-04T09:42:16.784Z [grades-control-api] info: DELETE /grades/:id - "32"
+2020-06-04T09:42:17.158Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:42:48.161Z [grades-control-api] info: POST /grades/rate - 26
+2020-06-04T09:43:05.836Z [grades-control-api] info: GET /grades/:id - {"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}
+2020-06-04T09:55:06.573Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:55:53.448Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:55:56.778Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:55:58.065Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:56:57.979Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:56:59.069Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:56:59.762Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:00.010Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:00.218Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:00.474Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:00.514Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:01.092Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:01.118Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:27.548Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:57:33.432Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:57:35.530Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:58:01.648Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:58:21.510Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:58:26.522Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:58:27.320Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:58:29.807Z [grades-control-api] info: POST /grades/total-grade - 60
+2020-06-04T09:58:33.012Z [grades-control-api] info: POST /grades - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-04T09:58:33.010Z"}
+2020-06-04T09:58:33.646Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:58:40.790Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:59:15.436Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:59:18.489Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:59:37.911Z [grades-control-api] info: [Server API] -> ON
+2020-06-04T09:59:40.568Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:59:41.811Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:59:42.574Z [grades-control-api] info: POST /grades/rate - NaN
+2020-06-04T09:59:51.306Z [grades-control-api] info: POST /grades/rate - 15.5
+2020-06-04T10:00:43.091Z [grades-control-api] info: GET /grades/:id - {"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}
